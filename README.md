@@ -20,10 +20,9 @@ Results:
 
 ![alt text](https://github.com/d3spinoz4/Paramecia/blob/main/png/road-img-svd.png?raw=true)
 
-https://www.mathworks.com/matlabcentral/fileexchange/48817-svd-eigen-qr-and-lu-texture-transforms?tab=reviews
-Alternative to Matlab's SVD (Singular Value Decomposition):
+Alternative to Matlab's SVD (Singular Value Decomposition https://www.mathworks.com/matlabcentral/fileexchange/48817-svd-eigen-qr-and-lu-texture-transforms?tab=reviews):
 
-![alt text](https://github.com/d3spinoz4/Paramecia/blob/main/png/shot2.png?raw=true)
+![alt text](https://github.com/d3spinoz4/Paramecia/blob/main/png/koala.png?raw=true)
 
 Results will vary (be faster) depending on ROI and image resolution:
 
