@@ -3,7 +3,7 @@ THIS CODE WILL NOT WORK WITH FLASK'S DEVELOPMENT SERVER (You must use httpd with
 
 The API takes an image as a byte stream and returns an image as a byte stream
 
-Cython can speed up processing but it must be tailord to each need, running the shell scrip on the Cython directory will build and copy the binary to the environments location.
+Cython can speed up processing but it must be tailord to each need, running the shell scrip on the Cython directory will build and copy the binary to the environments location otherwise you must remove all "C" like syntax and replace it with python.
 
 
 ![alt text](https://github.com/d3spinoz4/Paramecia/blob/main/png/road-img.png?raw=true)
