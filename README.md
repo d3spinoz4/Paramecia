@@ -20,7 +20,7 @@ Results:
 
 ![alt text](https://github.com/d3spinoz4/Paramecia/blob/main/png/road-img-svd.png?raw=true)
 
-Alternative to Matlab's SVD (Singular Value Decomposition https://www.mathworks.com/matlabcentral/fileexchange/48817-svd-eigen-qr-and-lu-texture-transforms?tab=reviews):
+An alternative to Matlab's SVD (Singular Value Decomposition https://www.mathworks.com/matlabcentral/fileexchange/48817-svd-eigen-qr-and-lu-texture-transforms?tab=reviews):
 
 ![alt text](https://github.com/d3spinoz4/Paramecia/blob/main/png/koala.png?raw=true)
 
